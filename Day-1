@@ -1,1 +1,63 @@
-Hii
+# 📘 Day 1 - GCP Introduction
+
+## ☁️ What is GCP?
+
+**Google Cloud Platform (GCP)** is a cloud computing service provided by Google.
+It allows developers to build, deploy, and scale applications using Google infrastructure.
+
+---
+
+## 💡 What is Cloud Computing?
+
+Cloud computing means using servers, storage, and services over the internet instead of local machines.
+
+---
+
+## 🔹 Types of Cloud Services
+
+### 1. IaaS (Infrastructure as a Service)
+
+* Provides virtual machines, storage, networking
+* Example: Virtual servers
+
+### 2. PaaS (Platform as a Service)
+
+* Provides platform to develop and deploy apps
+* No need to manage infrastructure
+
+### 3. SaaS (Software as a Service)
+
+* Ready-to-use software via internet
+* Example: Gmail, Google Docs
+
+---
+
+## 🌍 Regions and Zones
+
+* **Region**: A geographical location (e.g., Asia, US)
+* **Zone**: A specific area inside a region
+
+👉 Used for better performance and availability
+
+---
+
+## 🛠️ GCP Console
+
+* Web interface to manage GCP services
+* Create projects
+* Manage resources
+
+---
+
+## 🎯 Key Benefits of GCP
+
+* Scalable (increase/decrease resources easily)
+* Cost-effective (pay only for what you use)
+* High performance
+* Secure infrastructure
+
+---
+
+## 📌 Key Takeaway
+
+Cloud computing helps developers to run applications without managing physical hardware.
